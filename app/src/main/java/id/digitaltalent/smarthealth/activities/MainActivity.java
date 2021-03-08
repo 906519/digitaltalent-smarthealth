@@ -1,8 +1,10 @@
-package id.digitaltalent.smarthealth;
+package id.digitaltalent.smarthealth.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import id.digitaltalent.smarthealth.R;
 
 public class MainActivity extends AppCompatActivity {
 
